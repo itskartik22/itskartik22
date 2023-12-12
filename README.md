@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itskartik22
-- 👀 I’m interested in Full Stack WebDevlopment.
-- 🌱 I’m currently learning C++ And DSA..
+- 👀 I’m a MERN Stack Developer.
+- 🌱 I’m currently learning C++ And DSA.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 
